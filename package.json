@@ -1,7 +1,7 @@
 {
   "name": "lizziepinch.github.io",
   "version": "1.0.0",
-  "description": "## About My website - featuring a javascript to 'clean' Oracle Primavera XERs. Very much in development and not ready for use yet.  But feel free to look around if you stumble here somehow. Steve",
+  "description": "## Lizzie's first website",
   "main": "index.js",
   "dependencies": {
     "jquery": "^3.5.0",
