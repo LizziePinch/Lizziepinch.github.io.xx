@@ -1,0 +1,33 @@
+{
+  "name": "lizziepinch.github.io",
+  "version": "1.0.0",
+  "description": "## Lizzie's first website",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.5.0",
+    "jshint": "^2.10.3",
+    "minimist": "^1.2.5"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizziepinch/lizziepinch.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizziepinch/lizziepinch.github.io/issues"
+  },
+  "homepage": "https://github.com/lizziepinch/lizziepinch.github.io#readme",
+  "jshint.options": {
+    "esversion": 6
+  },
+  "ESLint.lintTask.options": {
+    "esversion": 6
+  }
+}
