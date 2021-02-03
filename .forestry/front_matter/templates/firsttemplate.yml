@@ -15,4 +15,4 @@ fields:
   name: categories
   label: categories
 pages:
-- _posts/first-post.md
+- _posts/second-post.md
