@@ -14,3 +14,4 @@ gem "jekyll-gist"
 gem "jemoji"
 # gem "jekyll-archives"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem 'beautiful-jekyll-theme', '~> 5.0'
