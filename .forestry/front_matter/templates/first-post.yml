@@ -18,3 +18,5 @@ fields:
     schema:
       format: markdown
   label: Body
+pages:
+- _posts/first-post.md
