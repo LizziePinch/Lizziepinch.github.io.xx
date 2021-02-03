@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Lizzie's Website
+title: Lizzies Website
 
 # Short description of your site
 description: Bizzles writes here
@@ -78,5 +78,5 @@ link-tags: true
 #   - README.md
 #   - Vagrantfile
 #plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+#  - jekyll-paginate
+#  - jekyll-sitemap
