@@ -11,10 +11,10 @@ description: Bizzles writes here
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-# url: ""
+url: ""
 
 # baseurl should be an empty string
-#baseurl: ""
+baseurl: ""
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
@@ -88,3 +88,4 @@ plugins:
    - jekyll-feed
    - jekyll-sitemap
    - jekyll-seo-tag
+   - jekyll-include-cache
