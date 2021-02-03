@@ -68,7 +68,7 @@ defaults:
 link-tags: true
 
 # Exclude these files from production site
- exclude:
+exclude:
    - CHANGELOG.md
    - CNAME
    - Dockerfile
@@ -78,6 +78,6 @@ link-tags: true
    - README.md
    - Vagrantfile
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+   - jekyll-feed
+   - jekyll-sitemap
+   - jekyll-seo-tag
