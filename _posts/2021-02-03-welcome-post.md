@@ -1,7 +1,6 @@
 ---
 title: Welcome Post
-body: ''
-
+layout: post
 ---
 # Welcome!
 
